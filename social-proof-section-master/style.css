@@ -1,0 +1,351 @@
+body{
+    background-color:hsl(300, 24%, 96%) ;
+}
+.our{
+   color: hsl(300, 43%, 22%);
+   font-size: 35px;
+   margin-left: 220px;
+   font-family: "League Spartan", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 700;
+   font-style: normal;
+position: absolute;
+top: 10px;
+
+}
+.user{
+    color: hsl(300, 43%, 22%);
+    font-size: 35px;
+    margin-left: 220px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+top: 65px;
+  
+;
+}
+.products{
+    color: hsl(300, 43%, 22%);
+    font-size: 35px;
+    margin-left: 220px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    top: 115px;
+
+
+}
+.provide{
+    color: hsl(303, 10%, 53%);
+    margin-left:220px;
+    margin-top: 0px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    bottom: 600px;
+    font-size: 25px;
+    
+    
+
+
+    
+}
+.custumer{
+    color: hsl(303, 10%, 53%);
+    margin-left: 220px;
+    margin-top: 00px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    bottom: 570px;
+    font-size: 25px;
+    
+
+}
+.services{
+    color: hsl(303, 10%, 53%);
+    margin-left: 220px;
+    margin-top: 00px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    bottom: 540px;
+    font-size: 25px;
+    
+
+}
+
+.colotdiv{
+    margin-left: 220px;
+    margin-top: 300px;
+    background-color: hsl(300, 43%, 22%);
+    width: 420px;
+    height: 290px;
+}
+
+.colot2{
+    margin-left: 100px;
+    margin-top: -70px;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+.colotdiv {
+    border-radius: 15px;
+    margin-top: 500px;
+}
+
+
+
+.img1{
+    border-radius: 50%;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+  
+
+}
+.buyerr{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: hsl(333, 80%, 67%);
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+
+}
+.div1{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+
+.irenediv{
+    margin-left: 670px;
+    margin-top: -270px;
+    background-color: hsl(300, 43%, 22%);
+    width: 420px;
+    height: 290px;
+    border-radius: 15px;
+
+}
+.img2{
+    
+    border-radius: 50%;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+      
+}
+.irene2{
+    margin-left: 100px;
+    margin-top: -70px;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.buyer2{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: hsl(333, 80%, 67%);
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.custumer2{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.annediv{
+    margin-left: 1120px;
+    margin-top: -270px;
+    background-color: hsl(300, 43%, 22%);
+    width: 420px;
+    height: 290px;
+    border-radius: 15px;
+}
+
+.img3 {
+    border-radius: 50%;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+  
+}
+
+
+.anne2{
+    margin-left: 100px;
+    margin-top: -70px;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.buyer3{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: hsl(333, 80%, 67%);
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.orders{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+.sawyisi{
+    margin-top: 200px;
+}
+
+
+
+.stars11 {
+    background-color: rgba(173, 172, 172, 0.164);
+    margin-left: 1050px;
+    width: 380px;
+    margin-top: -730px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+    
+.revieve1 {
+    margin-left: 140px;
+    margin-top: 8px;
+    padding: 5px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(300, 43%, 22%);
+
+ 
+  
+}
+
+.stars1 {
+    
+    margin-left: 10px;
+    margin-top: -47px;
+    padding: 5px;
+
+}
+
+
+
+.stars22 {
+    background-color: rgba(173, 172, 172, 0.164);
+    margin-left: 1100px;
+    width: 410px;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+    
+.revieve2 {
+    margin-left: 140px;
+    margin-top: 8px;
+    padding: 5px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(300, 43%, 22%);
+
+ 
+  
+}
+
+.stars2 {
+    
+    margin-left: 10px;
+    margin-top: -47px;
+    padding: 5px;
+
+}
+
+
+
+.stars33 {
+    background-color: rgba(173, 172, 172, 0.164);
+    margin-left: 1150px;
+    width: 380px;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+    
+.revieve3 {
+    margin-left: 140px;
+    margin-top: 8px;
+    padding: 5px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(300, 43%, 22%);
+
+ 
+  
+}
+
+.stars3 {
+    
+    margin-left: 10px;
+    margin-top: -47px;
+    padding: 5px;
+
+}
+
